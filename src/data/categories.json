@@ -1,0 +1,182 @@
+[
+  {
+    "category": "Eletrônicos",
+    "items": [
+      "Smartphone",
+      "Notebook",
+      "Tablet",
+      "Smart TV",
+      "Fone de Ouvido",
+      "Carregador",
+      "Caixa de Som",
+      "Camera Digital"
+    ]
+  },
+  {
+    "category": "Vestuário",
+    "items": [
+      "Camiseta",
+      "Calça Jeans",
+      "Jaqueta",
+      "Tênis",
+      "Boné",
+      "Vestido",
+      "Shorts"
+    ]
+  },
+  {
+    "category": "Alimentos",
+    "items": [
+      "Arroz",
+      "Feijão",
+      "Macarrão",
+      "Café",
+      "Biscoito",
+      "Leite",
+      "Achocolatado",
+      "Açúcar"
+    ]
+  },
+  {
+    "category": "Decoração",
+    "items": [
+      "Quadro",
+      "Tapete",
+      "Abajur",
+      "Vaso Decorativo",
+      "Cortina",
+      "Espelho",
+      "Relógio de Parede"
+    ]
+  },
+  {
+    "category": "Livros",
+    "items": [
+      "Romance",
+      "Ficção Científica",
+      "Biografia",
+      "Autoajuda",
+      "História",
+      "Suspense",
+      "Poesia"
+    ]
+  },
+  {
+    "category": "Brinquedos",
+    "items": [
+      "Boneca",
+      "Carrinho",
+      "Quebra-Cabeça",
+      "Lego",
+      "Massinha",
+      "Jogo de Tabuleiro"
+    ]
+  },
+  {
+    "category": "Informática",
+    "items": [
+      "Mouse",
+      "Teclado",
+      "Monitor",
+      "HD Externo",
+      "Pendrive",
+      "Placa de Vídeo",
+      "Webcam"
+    ]
+  },
+  {
+    "category": "Esporte",
+    "items": [
+      "Bola de Futebol",
+      "Bicicleta",
+      "Tênis de Corrida",
+      "Suplemento",
+      "Camisa de Time",
+      "Luvas"
+    ]
+  },
+  {
+    "category": "Beleza",
+    "items": [
+      "Perfume",
+      "Creme Hidratante",
+      "Shampoo",
+      "Condicionador",
+      "Maquiagem",
+      "Esmalte",
+      "Desodorante"
+    ]
+  },
+  {
+    "category": "Ferramentas",
+    "items": [
+      "Martelo",
+      "Chave de Fenda",
+      "Furadeira",
+      "Trena",
+      "Parafusadeira",
+      "Alicate",
+      "Serra Elétrica"
+    ]
+  },
+  {
+    "category": "Móveis",
+    "items": [
+      "Sofá",
+      "Cama",
+      "Mesa de Jantar",
+      "Cadeira",
+      "Estante",
+      "Armário",
+      "Rack",
+      "Criado-Mudo"
+    ]
+  },
+  {
+    "category": "Automotivo",
+    "items": [
+      "Pneu",
+      "Óleo de Motor",
+      "Calotas",
+      "Aromatizante",
+      "Tapete Automotivo",
+      "Lâmpadas LED"
+    ]
+  },
+  {
+    "category": "Pet Shop",
+    "items": [
+      "Ração para Cães",
+      "Ração para Gatos",
+      "Brinquedos para Pet",
+      "Caminha",
+      "Coleira",
+      "Areia Higiênica"
+    ]
+  },
+  {
+    "category": "Papelaria",
+    "items": [
+      "Caderno",
+      "Caneta",
+      "Lápis de Cor",
+      "Marca Texto",
+      "Régua",
+      "Tesoura",
+      "Cola",
+      "Papel Sulfite"
+    ]
+  },
+  {
+    "category": "Eletrodomésticos",
+    "items": [
+      "Geladeira",
+      "Fogão",
+      "Liquidificador",
+      "Micro-ondas",
+      "Batedeira",
+      "Cafeteira",
+      "Aspirador de Pó"
+    ]
+  }
+]
