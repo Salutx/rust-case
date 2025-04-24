@@ -29,7 +29,7 @@ Para rodar os testes unitários:
 
 - `cargo test`
 
-🎥 Vídeo Explicativo:
+🎥 Vídeo Explicativo: https://www.youtube.com/watch?v=zJCYiyYJQP4
 📺 Acesse o vídeo explicando o sistema e as decisões de projeto
 
 🧠 Autor
