@@ -178,5 +178,21 @@
       "Cafeteira",
       "Aspirador de Pó"
     ]
+  },
+  {
+    "category": "Ferramentas",
+    "items": [
+      "Martelo",
+      "Chave de Fenda",
+      "Furadeira",
+      "Trena",
+      "Parafusadeira",
+      "Alicate",
+      "Serra Elétrica"
+    ]
+  },
+  {
+    "category": "Frutas",
+    "items": ["Maçã", "Banana", "Laranja", "Uva", "Abacaxi", "Manga", "Morango"]
   }
 ]

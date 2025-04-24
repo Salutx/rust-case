@@ -24,7 +24,7 @@ pub fn read_input(prompt: &str) -> String {
 * @return: A HashMap where the keys are normalized words and the values are vectors of tuples containing the category and item.
 * This function normalizes the items and splits them into words, creating an index for efficient searching.
 */
-fn build_inverted_index(categories: &[Category]) -> HashMap<String, Vec<(String, String)>> {
+pub fn build_inverted_index(categories: &[Category]) -> HashMap<String, Vec<(String, String)>> {
     let mut index: HashMap<String, Vec<(String, String)>> = HashMap::new();
 
     // For each category, iterate through its items
@@ -54,7 +54,7 @@ fn build_inverted_index(categories: &[Category]) -> HashMap<String, Vec<(String,
 * @param key: The search term.
 * @return: A vector of tuples containing the category and item for each match.
 */
-fn search_index(
+pub fn search_index(
     index: &HashMap<String, Vec<(String, String)>>,
     key: &str,
 ) -> Vec<(String, String)> {
