@@ -7,6 +7,11 @@ Este projeto implementa um sistema de busca eficiente e escalável para o catál
 **Pré-requisitos**<br/>
 
 - Ter o Rust instalado: https://www.rust-lang.org/tools/install<br/>
+- Ter as dependências do projeto (se encontram no Cargo.toml):
+  - regex (1.11.1)
+  - serde (1.0, feat: derive)
+  - serde_json (1.0.140)
+  - unicode-normalization (0.1)
 
 **Passos:**<br/>
 
